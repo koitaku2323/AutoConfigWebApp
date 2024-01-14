@@ -1,0 +1,56 @@
+Server window:
+Command: SendingPropertiesObject
+Command: NeedAutomobileModelNames
+Command: NeedAutomobileObject:Prius
+Command: bye
+
+Client window:
+1. Upload Properties file.
+2. Configure a car.
+3. Exit.
+Choose one of the above options (1, 2 or 3):
+1
+Please enter the name of properties file: propertiesFile.txt
+1. Upload Properties file.
+2. Configure a car.
+3. Exit.
+Choose one of the above options (1, 2 or 3):
+2
+1. Prius
+Enter one of the above model names:
+Prius
+Automotive Name: PriusBase Price: 25000.0
+OptionSet Name: Color
+Option Name: Fort Knox Gold Clearcoat Metallic, Price: $0.0
+Option Name: Liquid Grey Clearcoat Metallic, Price: $0.0
+Option Name: Infra-Red Clearcoat, Price: $0.0
+Option Name: Grabber Green Clearcoat Metallic, Price: $0.0
+Option Name: Sangria Red Clearcoat Metallic, Price: $0.0
+Option Name: French Blue Clearcoat Metallic, Price: $0.0
+Option Name: Twilight Blue Clearcoat Metallic, Price: $0.0
+Option Name: CD Silver Clearcoat Metallic, Price: $0.0
+Option Name: Pitch Black Clearcoat, Price: $0.0
+Option Name: Cloud 9 White Clearcoat, Price: $0.0
+OptionSet Name: Transmission
+Option Name: automatic, Price: $0.0
+Option Name: standard, Price: $-815.0
+OptionSet Name: Brakes/Traction Control
+Option Name: standard, Price: $0.0
+Option Name: ABS, Price: $400.0
+Option Name: ABS with Advance Trac, Price: $1625.0
+OptionSet Name: Side Impact Air Bags
+Option Name: no, Price: $0.0
+Option Name: yes, Price: $350.0
+OptionSet Name: Power Moonroof
+Option Name: no, Price: $0.0
+Option Name: yes, Price: $595.0
+Enter an option set name that you want to choose: Color
+Enter an option name that you want to choose: Twilight Blue Clearcoat Metallic
+Enter an option set name that you want to choose: transmission
+Enter an option name that you want to choose: automatic
+Final price of the Automobile: 25000
+1. Upload Properties file.
+2. Configure a car.
+3. Exit.
+Choose one of the above options (1, 2 or 3):
+3
